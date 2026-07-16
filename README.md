@@ -14,7 +14,7 @@ To get started with the Web SDK take a look at the methods and descriptions belo
 |METHOD NAME|DESCRIPTION|
 |-------------|-------------|
 |init|Add init to every page on your website that you want to track activity|
-|setPerson|Connects the current user session to an known profile in People|
+|setPerson|Connects the current user session to a known profile in People|
 |updatePerson|Update profile attributes with data from the website|
 |track|Sends a custom event to a visitor, known lead or customer|
 |appendToList|Adds a new item to a List profile attribute|
